@@ -1,3 +1,3 @@
 #Strategy patron
 Salida de codigo
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/output.png?raw=true)
+![alt text](https://github.com/carlosortega17/PatronStrategyCalculadora/blob/master/output.png)
